@@ -1,4 +1,5 @@
 # Accessibility for Horiseon
+(Homework for week 1 of coding bootcamp)
 Objective given was to improve the overall accessability of their website
 
 I achieved this by changing html tags to be semantic wherever possible, updating the relative CSS tags, and adding alts to images .
