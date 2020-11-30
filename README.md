@@ -8,7 +8,7 @@ This involved putting semantic html tags wherever possible, updating the relativ
 There were no semantic tags around the main content of the page, only div, p and other basics. 
 I replaced what I could with tags like header, footer, nav, figure, figcaption, section, and aside.
 I also noticed the title was empty, so I added a description so that the title would display a consice description of the webpage.
-
+Added tabindex to all of the readable content, so that it would be accessable to a screen reader
 None of the img tags contained any alt descriptions, so I did my best to describe each image for accessibility. 
 
 The .CSS was mostly sound. I renamed a few of the selectors to make sure that the inteded design remained intact after changning most of the .html tags. This also involved deleting a few redundant lines and consolidating them into one. Lastly, I reordered a few sections to match the flow of the .html, and added comments to seperate each section.
