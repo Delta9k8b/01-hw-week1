@@ -1,6 +1,7 @@
-# Accessibility for Horiseon
-(Homework for week one of bootcamp)
+Accessibility for Horiseon
 ===========================================
+### (Homework for week one of bootcamp)
+
 Objective given was to improve the overall accessability of their website
 
 This involved putting semantic html tags wherever possible, updating the relative CSS tags, adding alts to images, and making sure that the site was functioning fully as intended.
