@@ -19,6 +19,6 @@ Also changed a section of the footer that was tagged h2 to h4 to make more sense
 The main content was provided by the client; design, images, text, links. 
 My job was soley to maximize accessibility. 
 
-Site can be viewed here: https://Keaton-Brewster.github.io/01-hw-week1/
+Site can be viewed here: https://Keaton-Brewster.github.io/01-hw-assignment1/
 
 
